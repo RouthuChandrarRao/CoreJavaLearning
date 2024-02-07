@@ -17,6 +17,7 @@ public class Fuzz {
                 System.out.println(i + "="+"Buzz");
             }
             else
+
             System.out.println(i);
         }
 
